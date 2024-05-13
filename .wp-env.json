@@ -1,0 +1,10 @@
+{
+	"core": "WordPress/WordPress",
+	"themes": [
+		"./themes/block-theme-example",
+		"./themes/classic-theme-example"
+	],
+	"plugins": [
+		"./plugins/learn-about-theme-json"
+	]
+}

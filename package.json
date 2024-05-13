@@ -1,0 +1,18 @@
+{
+	"name": "learn-about-theme-json",
+	"version": "1.0.0",
+	"author": "Aki Hamano",
+	"license": "GPL-2.0-or-later",
+	"scripts": {
+		"wp-env": "wp-env",
+		"start": "wp-scripts start",
+		"build": "wp-scripts build",
+		"lint:js": "wp-scripts lint-js",
+		"lint:js:fix": "npm run lint:js -- --fix",
+		"lint:php": "composer lint"
+	},
+	"devDependencies": {
+		"@wordpress/env": "^9.9.0",
+		"@wordpress/scripts": "^27.8.0"
+	}
+}
