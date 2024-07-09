@@ -12,7 +12,7 @@
 		"lint:php": "composer lint"
 	},
 	"devDependencies": {
-		"@wordpress/env": "^9.9.0",
-		"@wordpress/scripts": "^27.8.0"
+		"@wordpress/env": "^10.2.0",
+		"@wordpress/scripts": "^28.2.0"
 	}
 }
