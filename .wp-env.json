@@ -5,6 +5,7 @@
 		"./themes/classic-theme-example"
 	],
 	"plugins": [
-		"./plugins/learn-about-theme-json"
+		"./plugins/learn-about-theme-json",
+		"https://downloads.wordpress.org/plugin/create-block-theme.zip"
 	]
 }
